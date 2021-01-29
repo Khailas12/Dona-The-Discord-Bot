@@ -8,3 +8,4 @@ replit<3.0.0,>=2.0.0
 wikipedia<2.0.0,>=1.4.0
 yahoo-weather<2.0.0,>=1.0.8
 youtube-dl<2022.0.0,>=2021.1.8
+ gunicorn-20.0.4
