@@ -1,0 +1,10 @@
+chatbot-py<3.0,>=2.74
+discord<2.0.0,>=1.0.1
+files<2.0.0,>=1.1.1
+flask<2.0.0,>=1.1.2
+jokes<0.2.0,>=0.1.7
+pyjokes<0.7.0,>=0.6.0
+replit<3.0.0,>=2.0.0
+wikipedia<2.0.0,>=1.4.0
+yahoo-weather<2.0.0,>=1.0.8
+youtube-dl<2022.0.0,>=2021.1.8
