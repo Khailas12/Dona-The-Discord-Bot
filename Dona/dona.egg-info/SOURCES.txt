@@ -1,9 +1,0 @@
-dona.py
-setup.py
-dona.egg-info/PKG-INFO
-dona.egg-info/SOURCES.txt
-dona.egg-info/dependency_links.txt
-dona.egg-info/requires.txt
-dona.egg-info/top_level.txt
-
-
